@@ -9,25 +9,25 @@ let diffY = lightY - initialTy;
 
 // game loop
 while (true) {
-    const remainingTurns = parseInt(readline()); // The remaining amount of turns Thor can move. Do not remove this line.
+  const remainingTurns = parseInt(readline()); // The remaining amount of turns Thor can move. Do not remove this line.
 
-    let direction = '';
+  let direction = '';
 
-    if (diffY > 0) {
-        direction += 'S';
-        diffY--;
-    } else if (diffY < 0) {
-        direction += 'N';
-        diffY++;
-    }
+  if (diffY > 0) {
+    direction += 'S';
+    diffY--;
+  } else if (diffY < 0) {
+    direction += 'N';
+    diffY++;
+  }
 
-    if (diffX > 0) {
-        direction += 'E';
-        diffX--;
-    } else if (diffX < 0) {
-        direction += 'W';
-        diffX++;
-    }
+  if (diffX > 0) {
+    direction += 'E';
+    diffX--;
+  } else if (diffX < 0) {
+    direction += 'W';
+    diffX++;
+  }
 
-    console.log(direction);
+  console.log(direction);
 }
