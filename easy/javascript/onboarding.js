@@ -1,3 +1,5 @@
+// https://www.codingame.com/training/easy/onboarding
+
 // game loop
 while (true) {
   var enemy1 = readline(); // name of enemy 1
@@ -5,5 +7,6 @@ while (true) {
   var enemy2 = readline(); // name of enemy 2
   var dist2 = parseInt(readline()); // distance to enemy 2
 
+  // Find which enemy is the closer one
   console.log(dist1 < dist2 ? enemy1 : enemy2);
 }

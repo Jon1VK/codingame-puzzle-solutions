@@ -1,3 +1,5 @@
+// https://www.codingame.com/training/easy/mars-lander-episode-1
+
 const surfaceN = parseInt(readline()); // the number of points used to draw the surface of Mars.
 for (let i = 0; i < surfaceN; i++) {
   var inputs = readline().split(' ');
@@ -16,5 +18,6 @@ while (true) {
   const rotate = parseInt(inputs[5]); // the rotation angle in degrees (-90 to 90).
   const power = parseInt(inputs[6]); // the thrust power (0 to 4).
 
+  // If the vertical speed gets below -39, use full power. Otherwise let it drop
   console.log(vSpeed <= -40 ? '0 4' : '0 0');
 }
