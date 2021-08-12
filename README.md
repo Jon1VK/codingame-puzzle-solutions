@@ -4,7 +4,7 @@ In this repository there are my solutions for CodinGame puzzles. Links to the or
 
 ## Easy Puzzles
 
-### JavaScript (11/122)
+### JavaScript (12/122)
 
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/1d-spreadsheet "'1D Spreadsheet' Puzzle at CondinGame") [1D Spreadsheet](/easy/javascript/1d_spreadsheet.js '1d_spreadsheet.js')<br/>
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/ascii-art "'Ascii Art' Puzzle at CondinGame") [Ascii Art](/easy/javascript/ascii_art.js 'ascii_art.js')<br/>
