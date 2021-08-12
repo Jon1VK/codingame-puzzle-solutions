@@ -18,3 +18,9 @@ In this repository there are my solutions for CodinGame puzzles. Links to the or
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/power-of-thor-episode-1 "'Power of Thor - Episode 1' Puzzle at CondinGame") [Power of Thor - Episode 1](/easy/javascript/power_of_thor_episode_1.js 'power_of_thor_episode_1.js')<br/>
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/temperatures "'Temperatures' Puzzle at CondinGame") [Temperatures](/easy/javascript/temperatures.js 'temperatures.js')<br/>
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/the-descent "'The Descent' Puzzle at CondinGame") [The Descent](/easy/javascript/the_descent.js 'the_descent.js')<br/>
+
+## Medium Puzzles
+
+### JavaScript (1/214)
+
+[<img src="/codingame.svg" width="14">](https://www.codingame.com/training/medium/folding-a-note "'Folding a Note' Puzzle at CondinGame") [Folding a Note](/medium/javascript/folding_a_note.js 'folding_a_note.js')<br/>
