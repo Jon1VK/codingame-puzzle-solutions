@@ -4,7 +4,7 @@ In this repository there are my solutions for CodinGame puzzles. Links to the or
 
 ## Easy Puzzles
 
-### JavaScript
+### JavaScript (8/122)
 
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/ascii-art "'Ascii Art' Puzzle at CondinGame") [Ascii Art](/easy/javascript/ascii_art.js 'ascii_art.js')<br/>
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/chuck-norris "'Chuck Norris' Puzzle at CondinGame") [Chuck Norris](/easy/javascript/chuck_norris.js 'chuck_norris.js')<br/>
