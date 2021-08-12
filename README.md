@@ -5,7 +5,7 @@ In this repository there are my JavaScript solutions for CodinGame Puzzles. Link
 ## Easy Puzzles (12/122)
 
 - Classic Puzzles: 10 out of 10 solved
-- Community Puzzles; 2 out of 102 solved
+- Community Puzzles: 2 out of 102 solved
 
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/1d-spreadsheet "'1D Spreadsheet' Puzzle at CondinGame")
 [1D Spreadsheet](/easy/1d_spreadsheet.js '1d_spreadsheet.js')<br/>
