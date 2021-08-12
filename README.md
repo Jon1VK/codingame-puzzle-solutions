@@ -6,6 +6,7 @@ In this repository there are my solutions for CodinGame puzzles. Links to the or
 
 ### JavaScript (10/122)
 
+[<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/1d-spreadsheet "'1D Spreadsheet' Puzzle at CondinGame") [1D Spreadsheet](/easy/javascript/1d_spreadsheet.js '1d_spreadsheet.js')<br/>
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/ascii-art "'Ascii Art' Puzzle at CondinGame") [Ascii Art](/easy/javascript/ascii_art.js 'ascii_art.js')<br/>
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/chuck-norris "'Chuck Norris' Puzzle at CondinGame") [Chuck Norris](/easy/javascript/chuck_norris.js 'chuck_norris.js')<br/>
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/defibrillators "'Defibrillators' Puzzle at CondinGame") [Defibrillators](/easy/javascript/defibrillators.js 'defibrillators.js')<br/>
