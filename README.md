@@ -32,5 +32,5 @@ In this repository there are my JavaScript solutions for CodinGame Puzzles. Link
 
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/medium/folding-a-note "'Folding a Note' Puzzle at CondinGame")
 [Folding a Note](/medium/folding_a_note.js 'folding_a_note.js')<br/>
-[<img src="/codingame.svg" width="14">](https://www.codingame.com/training/medium/shadows-of-the-knight-epidose-1 "'Shadows of the Knight - Episode 1' Puzzle at CondinGame")
-[Shadows of the Knight - Episode 1](/medium/shadows_of_the_knight_epidose_1.js 'shadows_of_the_knight_epidose_1.js')<br/>
+[<img src="/codingame.svg" width="14">](https://www.codingame.com/training/medium/shadows-of-the-knight-episode-1 "'Shadows of the Knight - Episode 1' Puzzle at CondinGame")
+[Shadows of the Knight - Episode 1](/medium/shadows_of_the_knight_episode_1.js 'shadows_of_the_knight_episode_1.js')<br/>
