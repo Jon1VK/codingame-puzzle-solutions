@@ -4,10 +4,11 @@ In this repository there are my solutions for CodinGame puzzles. Links to the or
 
 ## Easy Puzzles
 
-### JavaScript (8/122)
+### JavaScript (9/122)
 
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/ascii-art "'Ascii Art' Puzzle at CondinGame") [Ascii Art](/easy/javascript/ascii_art.js 'ascii_art.js')<br/>
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/chuck-norris "'Chuck Norris' Puzzle at CondinGame") [Chuck Norris](/easy/javascript/chuck_norris.js 'chuck_norris.js')<br/>
+[<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/defibrillators "'Defibrillators' Puzzle at CondinGame") [Defibrillators](/easy/javascript/defibrillators.js 'defibrillators.js')<br/>
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/mars-lander-episode-1 "'Mars Lander - Episode 1' Puzzle at CondinGame") [Mars Lander - Episode 1](/easy/javascript/mars_lander_episode_1.js 'mars_lander_episode_1.js')<br/>
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/mime-type "'Mime Type' Puzzle at CondinGame") [Mime Type](/easy/javascript/mime_type.js 'mime_type.js')<br/>
 [<img src="/codingame.svg" width="14">](https://www.codingame.com/training/easy/onboarding "'Onboarding' Puzzle at CondinGame") [Onboarding](/easy/javascript/onboarding.js 'onboarding.js')<br/>
