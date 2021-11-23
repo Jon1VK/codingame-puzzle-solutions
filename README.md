@@ -1,6 +1,6 @@
 # CodinGame Puzzle Solutions
 
-In this repository there are my JavaScript solutions for CodinGame Puzzles. Links to the original puzzles are always marked at the top of the corresponding files as a comment. You can find the links to the original puzzles also before each link to a solution marked by <img src="/codingame.svg" width="14">.
+In this repository there are my JavaScript solutions for CodinGame Puzzles. Links to the original puzzles are always marked at the top of the corresponding files as a comment. You can find the links to the original puzzles also before each link to a solution marked by <img src="/codingame.svg" width="14">. Check out also my [CodinGame Profile](https://www.codingame.com/profile/e83d9b421bdddc0d777cbb76e7ee4fe72813113).
 
 ## Easy Puzzles (12/122)
 
